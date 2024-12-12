@@ -85,7 +85,7 @@
 }
 
 .custom-title {
-    color: white;
+    color: white !important;
 }
 
 /* CSS for the selectbox label */
